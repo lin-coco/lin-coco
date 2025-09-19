@@ -1,4 +1,4 @@
 ## Hello I'm lin-coco 👋
-- A Computer Engineering Undergraduate Student. & Open Source enthusiast.
+- 🎓 Computer Engineering Graduate & Open Source enthusiast.
 - 🌱 Currently working in Nanjing, China.
-- 💬 Ask me about Go and my projects on [lincocoxue@qq.com](mailto:lincocoxue@qq.com)
+- 💬 Ask me about Go, Java and my projects on [lincocoxue@qq.com](mailto:lincocoxue@qq.com)
